@@ -1,0 +1,4 @@
+*.name
+.idea/dataSources.ids
+*.xml
+.idea/my_blog.iml
